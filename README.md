@@ -1,5 +1,5 @@
 <CapstoneProject>
-This projects aims to build a data pipeline by gathering, transforming and uploading data. The used datasources were:
+This projects, which is the final project of the Udacity Data Engineering Nanodegree, aims to build a data pipeline by gathering, transforming and uploading data. The used datasources were:
     
     * US I94 immigration data 
     * US demographics  
